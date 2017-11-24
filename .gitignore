@@ -8,4 +8,5 @@ bottlenect_features
 images
 *.zip
 lfw
+bottleneck_features
 
